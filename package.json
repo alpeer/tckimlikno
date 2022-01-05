@@ -1,0 +1,39 @@
+{
+  "name": "tckimlikno",
+  "version": "1.0.0",
+  "description": "NVI TCKimlikDoğrulama arabirimi",
+  "main": "src/index.js",
+  "types": "src/types.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "author": "Kürşat",
+  "keywords": [
+    "tckimlik",
+    "soap",
+    "nvi",
+    "nodejs",
+    "typescript",
+    "kps",
+    "turkish-id",
+    "tc-kimlik",
+    "bent"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "bent": "7.3.12"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alpeer/tckimlikno.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alpeer/tckimlikno/issues"
+  },
+  "homepage": "https://github.com/alpeer/tckimlikno#readme"
+
+}
